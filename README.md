@@ -117,9 +117,4 @@ java MainApp
 ## 👨‍💻 Author
 
 Chandni Singh
-
 ---
-
-## ⭐ Note
-
-This project is developed for academic purposes and demonstrates clean coding practices, maintainability, and proper alignment with given requirements.
